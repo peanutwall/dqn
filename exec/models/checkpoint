@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/coreknowledge/Documents/dqn/exec/models/learningRate0.0001netDepth2netWidth128updateFrequency10"
+all_model_checkpoint_paths: "/home/coreknowledge/Documents/dqn/exec/models/learningRate0.0001netDepth2netWidth128updateFrequency10"
